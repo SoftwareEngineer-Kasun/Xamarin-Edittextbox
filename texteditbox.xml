@@ -1,0 +1,8 @@
+<EditText 
+      android:id = "@+id/lastName" 
+      android:layout_width = "0dp" 
+      android:layout_height = "wrap_content" 
+      android:hint = "Last Name" // display inside box
+      android:textColorHint = "@android:color/background_dark" 
+      android:textColor = "@android:color/background_dark" 
+      /> 
